@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="19" project-jdk-type="JavaSDK">
+>>>>>>> 0125c85e3315695014e45ba374d21b7c27595d12
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="18" project-jdk-type="JavaSDK">
+=======
+<<<<<<< HEAD
+>>>>>>> c75110a455f207aac71f4c6fae9a20c6c9ec197e
+  <component name="ProjectRootManager" version="2" project-jdk-name="19" project-jdk-type="JavaSDK">
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+>>>>>>> b708bffcacb2b63b47656c3d1ddb84dc1dd870b3
+<<<<<<< HEAD
+>>>>>>> 7346790e9c55169d7488ecca4b088f68c55a0634
+=======
+>>>>>>> 660a1da31b0d98e3d15db7e25ef51b3282a16487
+>>>>>>> be98a2d892d9c0056937933099094cc257a8c34e
+>>>>>>> c75110a455f207aac71f4c6fae9a20c6c9ec197e
+>>>>>>> 7fc69dd73da9bb066bf32362e0446760562f21c3
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
