@@ -1,5 +1,12 @@
+import java.util.Scanner;
+
 public class KotDraxler {
     public static void main(String[] args) {
-        System.out.println("Hello Kon pa pa");
+        int number, sum=0;
+        float average;
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter Element:");
+
+
     }
 }
