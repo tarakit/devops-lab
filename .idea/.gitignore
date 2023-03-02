@@ -8,4 +8,8 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+<<<<<<< HEAD
 >>>>>>> f6587b90855ed58a6912e867dd3aeaade020edd0
+=======
+>>>>>>> be98a2d892d9c0056937933099094cc257a8c34e
+>>>>>>> 654e61e68c080b193b7f7f8cf77873896067880f
