@@ -7,8 +7,12 @@
 <<<<<<< HEAD
     <mapping directory="" vcs="Git" />
 =======
+<<<<<<< HEAD
+    <mapping directory="" vcs="Git" />
+=======
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
 >>>>>>> b708bffcacb2b63b47656c3d1ddb84dc1dd870b3
 >>>>>>> 660a1da31b0d98e3d15db7e25ef51b3282a16487
+>>>>>>> be98a2d892d9c0056937933099094cc257a8c34e
   </component>
 </project>
