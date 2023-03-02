@@ -15,9 +15,12 @@ public class Main {
         System.out.println("Hi DevOps Class");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         //Sophea.Miss();
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> f057b68138ddf5222f0e4c3e04309af3ecd161c6
 
 =======
         Sophea.Miss();
@@ -39,8 +42,16 @@ public class Main {
         int i = 0;
         System.out.println("Hi DevOps Class");
         System.out.println("Hello world");
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> be98a2d892d9c0056937933099094cc257a8c34e
+=======
+
+>>>>>>> 236a15ac6653c9755abda2540248b3d46a95b377
+=======
 =======
 >>>>>>> 874fd32ed60a83f59b82cdb8adb7e6d429a2c995
 >>>>>>> 185c8d344aa978ada96f66cc437c00b9c6588c65
+>>>>>>> 6b2e6d40b61242cb0079c12253541d6d1a1557d5
     }
 }
