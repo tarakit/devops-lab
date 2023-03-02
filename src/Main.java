@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Hii Everyone");
         System.out.println("Hi DevOps Class");
 <<<<<<< HEAD
+<<<<<<< HEAD
         //Sophea.Miss();
 =======
 <<<<<<< HEAD
@@ -25,8 +26,8 @@ public class Main {
 =======
 
 >>>>>>> b14ae582aad12c9de4dcf8ec6235663c7384c1d3
+=======
+        Sophea.Miss();
+>>>>>>> 185c8d344aa978ada96f66cc437c00b9c6588c65
     }
-
-
-
 }
