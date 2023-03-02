@@ -2,13 +2,24 @@
 <project version="4">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-19 (2)" project-jdk-type="JavaSDK">
 =======
 <<<<<<< HEAD
 =======
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+=======
+<<<<<<< HEAD
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+=======
+<<<<<<< HEAD
+>>>>>>> 35f812c6db654fe6763f499c2dfd36e29f18f438
 <<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
 =======
+>>>>>>> eebedbaf8767f68dc0cd8e27a62ba6a916d80283
   <component name="ProjectRootManager" version="2" project-jdk-name="19" project-jdk-type="JavaSDK">
 <<<<<<< HEAD
 >>>>>>> c75110a455f207aac71f4c6fae9a20c6c9ec197e
@@ -36,7 +47,11 @@
 <<<<<<< HEAD
 =======
 >>>>>>> c75110a455f207aac71f4c6fae9a20c6c9ec197e
+<<<<<<< HEAD
 >>>>>>> a9b67a9c10231c5287b3f9623e03791eed7b420a
+=======
+>>>>>>> 7fc69dd73da9bb066bf32362e0446760562f21c3
+>>>>>>> 35f812c6db654fe6763f499c2dfd36e29f18f438
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
