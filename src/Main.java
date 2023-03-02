@@ -1,6 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
+        System.out.println("Hello ");
+
+        int i=0;
+
+
         System.out.println("Hii Everyone");
         System.out.println("Hi DevOps Class");
 <<<<<<< HEAD
@@ -17,4 +22,7 @@ public class Main {
 
 >>>>>>> b14ae582aad12c9de4dcf8ec6235663c7384c1d3
     }
+
+
+
 }
