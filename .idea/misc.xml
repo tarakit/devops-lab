@@ -2,6 +2,13 @@
 <project version="4">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-19 (2)" project-jdk-type="JavaSDK">
+=======
+<<<<<<< HEAD
+=======
+=======
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
 =======
 <<<<<<< HEAD
@@ -9,20 +16,24 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
 =======
 <<<<<<< HEAD
+>>>>>>> 35f812c6db654fe6763f499c2dfd36e29f18f438
 <<<<<<< HEAD
+=======
+>>>>>>> 6f22cfeac2daaf0de5b92eb3fcc96fa3019e1503
   <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
 =======
->>>>>>> eebedbaf8767f68dc0cd8e27a62ba6a916d80283
+<<<<<<< HEAD
+=======
   <component name="ProjectRootManager" version="2" project-jdk-name="19" project-jdk-type="JavaSDK">
-<<<<<<< HEAD
->>>>>>> c75110a455f207aac71f4c6fae9a20c6c9ec197e
-=======
->>>>>>> 0125c85e3315695014e45ba374d21b7c27595d12
->>>>>>> 35b8ed5710bf2be87fc3ba9283822785c2eeb03f
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+>>>>>>> a9b67a9c10231c5287b3f9623e03791eed7b420a
+=======
+>>>>>>> 236a15ac6653c9755abda2540248b3d46a95b377
+>>>>>>> 6f22cfeac2daaf0de5b92eb3fcc96fa3019e1503
   <component name="ProjectRootManager" version="2" project-jdk-name="18" project-jdk-type="JavaSDK">
 =======
 <<<<<<< HEAD
@@ -35,16 +46,19 @@
 >>>>>>> 7346790e9c55169d7488ecca4b088f68c55a0634
 =======
 >>>>>>> 660a1da31b0d98e3d15db7e25ef51b3282a16487
-<<<<<<< HEAD
->>>>>>> f6587b90855ed58a6912e867dd3aeaade020edd0
-=======
 >>>>>>> be98a2d892d9c0056937933099094cc257a8c34e
 <<<<<<< HEAD
->>>>>>> 654e61e68c080b193b7f7f8cf77873896067880f
 =======
 >>>>>>> c75110a455f207aac71f4c6fae9a20c6c9ec197e
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a9b67a9c10231c5287b3f9623e03791eed7b420a
+=======
 >>>>>>> 7fc69dd73da9bb066bf32362e0446760562f21c3
->>>>>>> 185c8d344aa978ada96f66cc437c00b9c6588c65
+>>>>>>> 35f812c6db654fe6763f499c2dfd36e29f18f438
+=======
+>>>>>>> 236a15ac6653c9755abda2540248b3d46a95b377
+>>>>>>> 6f22cfeac2daaf0de5b92eb3fcc96fa3019e1503
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
