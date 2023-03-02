@@ -6,7 +6,15 @@ public class KotDraxler {
         float average;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter Element:");
-
-
+        number = scanner.nextInt();
+        int [] arrName = new int[number];
+        System.out.println("Enter "+ number + "Element");
+        for (int i=0; i<number; i++) {
+            arrName[i] = scanner.nextInt();
+            sum = sum + arrName[i];
+        }
+        System.out.println("Sum is:"+sum);
+        average= (float)sum/number;
+        System.out.println("Average is:"+average);
     }
 }
